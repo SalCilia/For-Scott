@@ -1,0 +1,26 @@
+.main-img-container {
+    max-width: 50%;
+    height: auto;
+    margin: auto;
+}
+
+.header {
+    padding: 30px;
+    background-color: grey;
+}
+
+.container {
+    background-color: grey;
+
+
+}
+
+
+.dogCarousel {
+    justify-content: space-around;
+    
+}
+
+.image-fluid {
+    margin : 5px
+}
