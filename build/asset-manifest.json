@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/For-Scott/static/css/main.87107a4e.chunk.css",
+    "main.js": "/For-Scott/static/js/main.3cde1043.chunk.js",
+    "main.js.map": "/For-Scott/static/js/main.3cde1043.chunk.js.map",
+    "runtime-main.js": "/For-Scott/static/js/runtime-main.a0b44d20.js",
+    "runtime-main.js.map": "/For-Scott/static/js/runtime-main.a0b44d20.js.map",
+    "static/js/2.8fc2e5ea.chunk.js": "/For-Scott/static/js/2.8fc2e5ea.chunk.js",
+    "static/js/2.8fc2e5ea.chunk.js.map": "/For-Scott/static/js/2.8fc2e5ea.chunk.js.map",
+    "index.html": "/For-Scott/index.html",
+    "precache-manifest.6a7c19702e51d6f8a58953e6e84e1a0c.js": "/For-Scott/precache-manifest.6a7c19702e51d6f8a58953e6e84e1a0c.js",
+    "service-worker.js": "/For-Scott/service-worker.js",
+    "static/css/main.87107a4e.chunk.css.map": "/For-Scott/static/css/main.87107a4e.chunk.css.map",
+    "static/js/2.8fc2e5ea.chunk.js.LICENSE.txt": "/For-Scott/static/js/2.8fc2e5ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0b44d20.js",
+    "static/js/2.8fc2e5ea.chunk.js",
+    "static/css/main.87107a4e.chunk.css",
+    "static/js/main.3cde1043.chunk.js"
+  ]
+}
